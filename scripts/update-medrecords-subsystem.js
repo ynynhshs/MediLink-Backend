@@ -8,7 +8,7 @@ const EXPECTED_DATABASE = 'medilink_lab_dev';
 
 const MEDRECORDS = {
     id: 2,
-    name: 'Electronic Medical Records Management',
+    name: 'Medical Records and Clinical Services',
     status: 'Available',
     url: 'https://medrecords-his.onrender.com'
 };
