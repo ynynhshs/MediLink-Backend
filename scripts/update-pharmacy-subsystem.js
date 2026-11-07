@@ -9,7 +9,7 @@ const PHARMACY = {
     id: 5, // Based on your previous list output
     name: 'Pharmacy and Medical Inventory',
     status: 'Available',
-    url: 'https://hospital-pharmacy-qmyi.onrender.com'
+    url: 'https://hospital-pharmacy-3jbg.onrender.com/'
 };
 
 async function update() {
